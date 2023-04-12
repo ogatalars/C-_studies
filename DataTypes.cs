@@ -11,11 +11,13 @@ namespace MyApplication
             char myLetter = 'D';         // character
             bool myBool = true;          // boolean
             string myText = "Hello";     // string
+            long myLongNum = 12312312323; // Number maior que o integer 
             Console.WriteLine(myNum);
             Console.WriteLine(myDoubleNum);
             Console.WriteLine(myLetter);
             Console.WriteLine(myBool);
             Console.WriteLine(myText);
+            Console.WriteLine(myLongNum);
         }
     }
 }
